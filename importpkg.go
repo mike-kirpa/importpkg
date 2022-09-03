@@ -2,6 +2,6 @@ package importpkg
 
 import "fmt"
 
-func summ() string {
+func Summ() string {
 	return fmt.Sprintln("Hello, GO!")
 }
