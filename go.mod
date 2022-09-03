@@ -1,3 +1,3 @@
-module github.com/mike-kirpa/import-pkg
+module github.com/mike-kirpa/importpkg
 
 go 1.18
